@@ -1,4 +1,0 @@
-Sphinx
-sphinx-issues
-sphinx-notfound-page>=0.5
-sphinx-rtd-theme
